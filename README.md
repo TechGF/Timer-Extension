@@ -1,4 +1,4 @@
-# timer-extension
+# Chrome Extension Timer
 
 This is a **Chrome Extension** that allows a user to view real time, user name, and start, stop and reset Timer.
 
